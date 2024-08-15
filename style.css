@@ -1,0 +1,151 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.imagecal
+{
+
+    margin-left: 0px;
+}
+.calimage
+{
+    margin-left:0px;
+}
+
+
+.shape-1
+{
+   margin-left:-12px;
+   margin-top:-45px;
+   font-size:90px;
+   cursor: pointer;
+   color: red;
+
+   
+}
+.circle:hover
+{
+
+    transform: scale(0.90);
+}
+
+.shape-2
+{
+    margin-top:-100px;
+    margin-left:100px;
+    font-size:90px;
+    cursor: pointer;
+    color: orange;
+}
+.square:hover
+{
+    transform: scale(0.90);
+}
+
+
+.shape-3
+{
+    margin-top: -115px;
+    margin-left:200px;
+    cursor: pointer;
+}
+.cylinder:hover
+{
+    transform: scale(0.90);
+}
+
+.shape-4
+{
+    margin-top: -110px;
+    margin-left:330px;
+    cursor: pointer;
+}
+
+.alpha:hover
+{
+    transform: scale(0.90);
+}
+
+.shape-5
+{
+    margin-top: -120px;
+    margin-left:470px;
+    cursor: pointer;
+    
+}
+.numbers:hover
+{
+    transform: scale(0.90);
+}
+.circle
+{
+    
+    cursor: pointer;
+    margin-top: -20px;
+    margin-left: -20px;
+
+    
+    
+    
+}
+
+.square
+{
+    position: relative;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    
+}
+
+.alpha
+{
+    font-size:80px;
+}
+
+
+
+.box-1{
+    background-color: white;
+    width: 600px;
+    height:35px;
+    border:10px solid rgb(48, 48, 48);
+    padding:50px;
+    margin:10px;
+    margin-top:-450px;
+    margin-left:400px;
+    margin-right: 0%;
+    z-index: 1;
+    position: relative;
+  }
+
+  .cir
+  {
+
+    margin-top: -25px;
+    margin-left:20px;
+  }
+  .squa
+  {
+
+    margin-top:-19px; 
+    margin-left:130px;
+ }
+  .cylin
+  {
+    margin-top:-15px; 
+    margin-left:250px;
+  }
+  .num
+  {
+    margin-top:-19px; 
+    margin-left:380px;
+  }
+  .alp
+  {
+    margin-top:-19px; 
+    margin-left:540px;
+  }
